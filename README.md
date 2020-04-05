@@ -9,8 +9,8 @@ $ cd api-covid-brazil-json
 $ npm install
 ```
 
-Neste momento o servidor da api já deve estar rodando
-
+**Neste momento o servidor da api já deve estar rodando**
+---
 
 ## Como utilizar?
 Rodando o código no seu servidor e acessando a [pasta-raiz/total](http://ademario-com-br.umbler.net/total "Total de casos") passando um GET como request, você tem acesso ao total de dados do Brazil e dos seus estados sobre covid-19.
