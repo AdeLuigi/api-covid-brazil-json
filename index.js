@@ -35,10 +35,9 @@ app.get('/total', async (req, res) => {
         }
         return objeto
     })
+    return res.json(json) // opa oap oa
 
-    return res.json(json)
-
-})
+}) 
 
 app.get('/states', async (req, res) => {
     const {data} = await axios.get('https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv')
