@@ -30,7 +30,8 @@ $ npm start
 * Com o servidor rodando, acesse a [pasta-raiz/cities-time](http://ademario-com-br.umbler.net/cities-time "Total de casos nas cidades e a data da contagem") passando um GET como request, você terá acesso ao total de dados sobre covid-19 cidades brasileiras e a data daquela contagem.
 
 ***
-## Você tambem pode acessar as urls abaixo fazendo uma requisição do tipo GET, elas irão te retornar os dados em formato json.
+### Você tambem pode acessar as urls abaixo fazendo uma requisição do tipo GET, elas irão te retornar os dados em formato json.
+```
 [http://ademario-com-br.umbler.net/total](http://ademario-com-br.umbler.net/total "Total de casos")
 
 
@@ -41,3 +42,4 @@ $ npm start
 
 
 [http://ademario-com-br.umbler.net/cities-time](http://ademario-com-br.umbler.net/cities-time "Total de casos nas cidades e a data da contagem")
+```
