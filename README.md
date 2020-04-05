@@ -3,7 +3,7 @@
 **Uma api que retorna os dados sobre covid19 no Brasil em formato json**
 
 ## **Rodando o projeto**
-```
+```git
 $ git clone https://github.com/AdeLuigi/api-covid-brazil-json.git
 $ cd api-covid-brazil-json
 $ npm install
