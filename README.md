@@ -32,13 +32,13 @@ $ npm start
 ***
 ### Você tambem pode acessar as urls abaixo fazendo uma requisição do tipo GET, elas irão te retornar os dados em formato json.
 
-[http://ademario-com-br.umbler.net/total](http://ademario-com-br.umbler.net/total "Total de casos")
+* [http://ademario-com-br.umbler.net/total](http://ademario-com-br.umbler.net/total "Total de casos")
 
 
-[http://ademario-com-br.umbler.net/states](http://ademario-com-br.umbler.net/states "Total de casos nos estados")
+* [http://ademario-com-br.umbler.net/states](http://ademario-com-br.umbler.net/states "Total de casos nos estados")
 
 
-[http://ademario-com-br.umbler.net/cities](http://ademario-com-br.umbler.net/cities "Total de casos nas cidades")
+* [http://ademario-com-br.umbler.net/cities](http://ademario-com-br.umbler.net/cities "Total de casos nas cidades")
 
 
-[http://ademario-com-br.umbler.net/cities-time](http://ademario-com-br.umbler.net/cities-time "Total de casos nas cidades e a data da contagem")
+* [http://ademario-com-br.umbler.net/cities-time](http://ademario-com-br.umbler.net/cities-time "Total de casos nas cidades e a data da contagem")
