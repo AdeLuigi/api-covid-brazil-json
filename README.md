@@ -9,7 +9,11 @@ $ cd api-covid-brazil-json
 $ npm install
 ```
 
-#### **Neste momento o servidor da api já deve estar rodando**
+#### *Neste momento o servidor da api já deve estar pronto para rodar*
+
+```git
+$ npm start
+```
 ---
 
 ## Como utilizar?
