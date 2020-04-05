@@ -18,6 +18,8 @@ $ npm start
 ## Como utilizar?
 
 ⋅⋅* Total de dados sobre covid-19 no brasil
+
+
 ⋅⋅⋅Rodando o código no seu servidor e acessando a [pasta-raiz/total](http://ademario-com-br.umbler.net/total "Total de casos") passando um GET como request, você tem acesso ao total de dados do Brazil e dos seus estados sobre covid-19.
 
 
