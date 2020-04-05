@@ -2,10 +2,11 @@
 
 **Uma api que retorna os dados sobre covid19 no Brasil em formato json**
 
-##**Rodando o projeto**
+## **Rodando o projeto**
 ```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
+$ git clone https://github.com/AdeLuigi/api-covid-brazil-json.git
+$ cd api-covid-brazil-json
+$ npm install
 ```
 ## Como utilizar?
 Rodando o código no seu servidor e acessando a [pasta-raiz/total](http://ademario-com-br.umbler.net/total "Total de casos") passando um GET como request, você tem acesso ao total de dados do Brazil e dos seus estados sobre covid-19.
